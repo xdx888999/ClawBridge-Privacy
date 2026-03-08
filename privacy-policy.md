@@ -110,9 +110,8 @@ ClawBridge 不是面向儿童设计的产品，也不会主动面向儿童收集
 
 ## 11. 联系方式
 
-如果你对本隐私政策有疑问，可以先通过以下公开页面联系或关注更新：
+如果你对本隐私政策有疑问，可以通过以下方式联系或关注更新：
 
-- GitHub 主页：<https://github.com/xdx888999>
+- 联系邮箱：`xdx_lab@126.com`
+- 项目主页：<https://github.com/xdx888999/ClawBridge>
 - 隐私政策仓库：<https://github.com/xdx888999/ClawBridge-Privacy>
-
-如果你后续准备正式对外发布应用，建议将本节进一步补充为真实且可长期访问的联系邮箱，例如 `support@your-domain.com`。
