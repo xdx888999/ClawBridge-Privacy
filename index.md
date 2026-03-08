@@ -5,6 +5,7 @@
 ## 可访问页面
 
 - [隐私政策](privacy-policy.md)
+- 公开地址：<https://xdx888999.github.io/ClawBridge-Privacy/privacy-policy.html>
 
 ## 说明
 
@@ -18,5 +19,6 @@ ClawBridge 是一个 iOS 客户端，用于连接用户自托管的 OpenClaw Gat
 
 - GitHub 主页：<https://github.com/xdx888999>
 - 隐私政策仓库：<https://github.com/xdx888999/ClawBridge-Privacy>
+- 隐私政策公开页面：<https://xdx888999.github.io/ClawBridge-Privacy/privacy-policy.html>
 
 在正式提交 App Store 审核前，建议将隐私政策中的联系方式补充为真实且可长期访问的邮箱地址。
